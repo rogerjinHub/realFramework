@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'realFramework_Example', :exclusive => true do
+  pod "realFramework", :path => "../"
+end
+
+target 'realFramework_Tests', :exclusive => true do
+  pod "realFramework", :path => "../"
+
+  
+end
