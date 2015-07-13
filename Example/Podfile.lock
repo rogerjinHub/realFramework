@@ -1,0 +1,14 @@
+PODS:
+  - realFramework (0.1.0)
+
+DEPENDENCIES:
+  - realFramework (from `../`)
+
+EXTERNAL SOURCES:
+  realFramework:
+    :path: ../
+
+SPEC CHECKSUMS:
+  realFramework: 2e46882fb3fb7c54531139a118c4b7a97a91de33
+
+COCOAPODS: 0.37.2

@@ -1,0 +1,6 @@
+framework module realFramework {
+  umbrella header "Pods-realFramework_Example-realFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
