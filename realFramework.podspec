@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "realFramework"
-  s.version          = "0.1.0"
+  s.version          = "2.0.0"
   s.summary          = "A test of realFramework."
   s.description      = <<-DESC
                        This is the testing of realFramework
